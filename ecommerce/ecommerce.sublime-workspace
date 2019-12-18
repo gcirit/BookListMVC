@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"javascri",
+				"javascript"
+			],
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"acc",
+				"account_login"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"ACC",
+				"ACCOUNT_USER_MODEL_USERNAME_FIELD"
+			],
+			[
+				"ACCOUNT",
+				"ACCOUNT_EMAIL_CONFIRMATION_ANONYMOUS_REDIRECT_URL"
+			],
+			[
+				"E",
+				"EMAIL_HOST"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"javas",
+				"javascript"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"pro",
+				"profileAdmin"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"w",
+				"widget"
+			],
+			[
+				"co",
+				"contact_form"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"stat",
+				"staticfiles"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"get",
+				"get_queryset"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"ge",
+				"get_absolute_url"
+			],
+			[
+				"i",
+				"instance"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"Co",
+				"ContactForm"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"r",
+				"rendered_item"
+			],
+			[
+				"templa",
+				"template_obj"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"temp",
+				"template_obj"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"S",
+				"SECRET_KEY"
+			],
+			[
+				"e",
+				"environ"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"modle",
+				"models"
+			],
+			[
+				"au",
+				"auth_views"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ecommerce/checkout/templates/checkout.html",
+			"settings":
+			{
+				"buffer_size": 2110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ecommerce/ecommerce/settings.py",
+			"settings":
+			{
+				"buffer_size": 5253,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from django.conf import settings\nfrom django.contrib.auth.decorators import login_required\nfrom django.shortcuts import render\nimport stripe\n\nstripe.api_key = settings.STRIPE_SECRET_KEY\n# Create your views here.\n\n@login_required\ndef checkout(request):\n\tpublishKey = settings.STRIPE_PUBLISHABLE_KEY\n\tif request.method == 'POST':\n\t\ttoken = request.POST['stripeToken']\n\t\t# Create a charge: this will charge the user's card\n\t\ttry:\n\t\t\tcharge = stripe.Charge.create(\n\t\t\t    amount=999,\n\t\t\t    currency='usd',\n\t\t\t    description='Example charge',\n\t\t\t    source=token,\n\t\t\t)\n\t\texcept stripe.error.CardError as e:\n\t\t\t# The card has been declined\n\t\t\tpass\t\n\tcontext = {'publishKey':publishKey}\n\ttemplate = 'checkout.html'\n\treturn render(request, template, context)",
+			"file": "src/ecommerce/checkout/views.py",
+			"file_size": 778,
+			"file_write_time": 132054168205276931,
+			"settings":
+			{
+				"buffer_size": 752,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/GKTRK/Dev/ecommerce/src",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/checkout",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates",
+		"/C/Users/GKTRK/Dev/ecommerce/src/static",
+		"/C/Users/GKTRK/Dev/ecommerce/src/static/static"
+	],
+	"file_history":
+	[
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/base.html",
+		"/C/Users/GKTRK/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/navbar.html",
+		"/C/Users/GKTRK/Desktop/django_project/blog/templates/home.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/ecommerce/settings.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/checkout/templates/checkout.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/checkout/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/home.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/about.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/ecommerce/urls.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/profile.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/account/logout.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/account/signup.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/account/login.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/static/static/css/bootstrap.min.css",
+		"/C/Users/GKTRK/Dev/ecommerce/src/static/static/css/main.css",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/contact/templates/contact.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/contact/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/contact/forms.py",
+		"/C/Users/GKTRK/Desktop/django_project/blog/templates/base.html",
+		"/C/Users/GKTRK/Desktop/django_project/blog/urls.py",
+		"/C/Users/GKTRK/Desktop/django_project/blog/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/models.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/admin.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/urls.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/contact/view.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/forms.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/auth/login.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/auth/register.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/home_page.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/settings.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/models.py",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/settings.py",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/urls.py",
+		"/C/Users/GKTRK/Dev/try_django/static_cdn_test/blank/blank.txt",
+		"/C/Users/GKTRK/Dev/try_django/src/staticfiles/blank.txt",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/list-inline.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/views.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/forms.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/home.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/list.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/detail.html",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/views.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/navbar.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/base.html",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/forms.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/delete.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/create.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/form.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/form.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_list.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_create.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/urls.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_delete.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_update.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_detail.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/admin.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/hello_world.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/about.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/title.txt",
+		"/C/Users/GKTRK/django_project/django_project/settings.py",
+		"/C/Users/GKTRK/django_project/.git/COMMIT_EDITMSG",
+		"/C/Users/GKTRK/django_project/requirements.txt",
+		"/C/Users/GKTRK/django_project/.gitignore",
+		"/C/Users/GKTRK/django_project/blog/static/blog/main.css",
+		"/C/Users/GKTRK/django_project/django_project/__init__.py",
+		"/C/Users/GKTRK/django_project/django_project/__pycache__/settings.cpython-37.pyc",
+		"/C/Users/GKTRK/django_project/django_project/wsgi.py",
+		"/C/Users/GKTRK/django_project/Procfile",
+		"/C/Users/GKTRK/django_project/users/models.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/login.html",
+		"/C/Users/GKTRK/django_project/django_project/urls.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset_complete.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset_done.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset_confirm.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/post_detail.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/home.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/user_posts.html",
+		"/C/Users/GKTRK/django_project/blog/urls.py",
+		"/C/Users/GKTRK/django_project/blog/views.py",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/base.html",
+		"/C/Users/GKTRK/django_project/posts.json",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/post_form.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/post_confirm_delete.html",
+		"/C/Users/GKTRK/django_project/blog/models.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/profile.html",
+		"/C/Users/GKTRK/django_project/users/forms.py",
+		"/C/Users/GKTRK/django_project/users/views.py",
+		"/C/Users/GKTRK/django_project/users/apps.py",
+		"/C/Users/GKTRK/django_project/users/signals.py",
+		"/C/Users/GKTRK/django_project/users/admin.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/logout.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/register.html",
+		"/C/Users/GKTRK/django_project/blog/admin.py",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/about.html",
+		"/C/Users/GKTRK/django_project/url.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ecommerce/checkout/templates/checkout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ecommerce/ecommerce/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 292.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/ecommerce/checkout/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

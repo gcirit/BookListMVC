@@ -1,0 +1,1069 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"db"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"is",
+				"instance"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"co",
+				"content_object"
+			],
+			[
+				"cont",
+				"content_type"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Lo",
+				"LoginView"
+			],
+			[
+				"u",
+				"uyuşmuyor"
+			],
+			[
+				"Şi",
+				"Şifreler"
+			],
+			[
+				"Us",
+				"UserAdminCreationForm"
+			],
+			[
+				"User",
+				"UserAdminChangeForm"
+			],
+			[
+				"cre",
+				"create_user"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"use",
+				"user_obj"
+			],
+			[
+				"D",
+				"default"
+			],
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"e",
+				"errors"
+			],
+			[
+				"ca",
+				"contact"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"sear",
+				"searchBtn"
+			],
+			[
+				"subm",
+				"submit"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"typ",
+				"typingTimer"
+			],
+			[
+				"ty",
+				"typingInterval"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"pr",
+				"productRows"
+			],
+			[
+				"cart",
+				"cartBody"
+			],
+			[
+				"s",
+				"subtotal"
+			],
+			[
+				"car",
+				"cart_obj"
+			],
+			[
+				"submit",
+				"submitSpan"
+			],
+			[
+				"ad",
+				"added"
+			],
+			[
+				"prod",
+				"product_added"
+			],
+			[
+				"error",
+				"errorData"
+			],
+			[
+				"act",
+				"actionEndpoint"
+			],
+			[
+				"thi",
+				"thisForm"
+			],
+			[
+				"this",
+				"thisForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"billi",
+				"billing"
+			],
+			[
+				"bill",
+				"billing_profile"
+			],
+			[
+				"add",
+				"addresses"
+			],
+			[
+				"paid",
+				"paid"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"Bill",
+				"BillingProfileManager"
+			],
+			[
+				"new",
+				"new_or_get"
+			],
+			[
+				"Order",
+				"OrderManager"
+			],
+			[
+				"order",
+				"order_obj"
+			],
+			[
+				"order_",
+				"order_qs"
+			],
+			[
+				"gu",
+				"guest_form"
+			],
+			[
+				"guest",
+				"guest_form"
+			],
+			[
+				"Guest",
+				"GuestEmail"
+			],
+			[
+				"G",
+				"GuestEmail"
+			],
+			[
+				"E",
+				"EmailField"
+			],
+			[
+				"bil",
+				"billing_profile"
+			],
+			[
+				"red",
+				"redirect_path"
+			],
+			[
+				"ne",
+				"next_post"
+			],
+			[
+				"n",
+				"not"
+			],
+			[
+				"or",
+				"order_obj"
+			],
+			[
+				"post",
+				"post_save_cart_total"
+			],
+			[
+				"O",
+				"ORDER_STATUS_CHOICES"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"Pro",
+				"ProductDetailSlugView"
+			],
+			[
+				"pre",
+				"pre_saved_cart_receiver"
+			],
+			[
+				"C",
+				"CartManager"
+			],
+			[
+				"produts",
+				"products"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"modl",
+				"Model"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"col",
+				"col-12"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"unique",
+				"unique_slug_generator"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"Pr",
+				"ProductAdmin"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"Produc",
+				"ProductDetailView"
+			],
+			[
+				"newfile",
+				"new_filename2"
+			],
+			[
+				"fi",
+				"final_filename"
+			],
+			[
+				"ba",
+				"base_name"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"p",
+				"password2"
+			],
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"conta",
+				"contact_form"
+			],
+			[
+				"javascri",
+				"javascript"
+			],
+			[
+				"form",
+				"form-row"
+			],
+			[
+				"acc",
+				"account_login"
+			],
+			[
+				"ACC",
+				"ACCOUNT_USER_MODEL_USERNAME_FIELD"
+			],
+			[
+				"ACCOUNT",
+				"ACCOUNT_EMAIL_CONFIRMATION_ANONYMOUS_REDIRECT_URL"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"javas",
+				"javascript"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"w",
+				"widget"
+			],
+			[
+				"stat",
+				"staticfiles"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"ge",
+				"get_absolute_url"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"Co",
+				"ContactForm"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"r",
+				"rendered_item"
+			],
+			[
+				"templa",
+				"template_obj"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"temp",
+				"template_obj"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"S",
+				"SECRET_KEY"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"modle",
+				"models"
+			],
+			[
+				"au",
+				"auth_views"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/products/models.py",
+			"settings":
+			{
+				"buffer_size": 3025,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/views.py",
+			"settings":
+			{
+				"buffer_size": 4189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/featured-detail.html",
+			"settings":
+			{
+				"buffer_size": 537,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/urls.py",
+			"settings":
+			{
+				"buffer_size": 389,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/templates/base/navbar.html",
+			"settings":
+			{
+				"buffer_size": 3136,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/products/templates/products/snippets/card.html",
+			"settings":
+			{
+				"buffer_size": 671,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/GKTRK/Dev/funfinifon",
+		"/C/Users/GKTRK/Dev/funfinifon/src",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses",
+		"/C/Users/GKTRK/Dev/funfinifon/src/analytics",
+		"/C/Users/GKTRK/Dev/funfinifon/src/billing",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts",
+		"/C/Users/GKTRK/Dev/funfinifon/src/funfinifon",
+		"/C/Users/GKTRK/Dev/funfinifon/src/orders",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products/snippets",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/magento2/vendor/magento/framework/View/Element/Template/File/Validator.php",
+		"/C/Users/GKTRK/Dev/funfinifon/src/funfinifon/settings.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/analytics/utils.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/analytics/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/analytics/mixins.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/views.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/signals.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/analytics/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/views.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/analytics/signals.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/forms.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/funfinifon/urls.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/migrations/0001_initial.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/base.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/base/js.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/static_my_proj/js/csrf.ajax.js",
+		"/C/Users/GKTRK/Dev/funfinifon/src/static_my_proj/js/ecommerce.js",
+		"/C/Users/GKTRK/Dev/funfinifon/src/funfinifon/forms.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/funfinifon/views.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/contact/view.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/search/templates/search/snippets/search-form.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/base/css.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/templates/carts/snippets/remove-product.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/views.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/templates/carts/home.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products/snippets/card.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products/detail.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products/featured-detail.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products/list.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/templates/products/snippets/update-cart.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/base/navbar.html",
+		"/C/Users/GKTRK/Dev/funfinifon/fasttracttojquery/index.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/search/templates/search/view.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses/views.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/templates/accounts/register.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/templates/accounts/snippets/form.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/accounts/templates/accounts/login.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/templates/carts/checkout.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/templates/carts/checkout-done.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/urls.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses/templates/addresses/prev_addresses.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/orders/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses/forms.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses/templates/addresses/form.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/billing/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/addresses/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/billing/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/auth/login.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/orders/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/funfinifon/utils.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/tags/models.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/urls.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/carts/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/search/views.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/tags/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/search/urls.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/auth/register.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/templates/home_page.html",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/admin.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/products/utils.py",
+		"/C/Users/GKTRK/Dev/funfinifon/src/static_my_proj/css/main.css",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/checkout/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/ecommerce/settings.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/checkout/templates/checkout.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/base.html",
+		"/C/Users/GKTRK/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/navbar.html",
+		"/C/Users/GKTRK/Desktop/django_project/blog/templates/home.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/home.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/about.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/ecommerce/urls.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/profile.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/account/logout.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/account/signup.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/templates/account/login.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/static/static/css/bootstrap.min.css",
+		"/C/Users/GKTRK/Dev/ecommerce/src/static/static/css/main.css",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/contact/templates/contact.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/contact/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/contact/forms.py",
+		"/C/Users/GKTRK/Desktop/django_project/blog/templates/base.html",
+		"/C/Users/GKTRK/Desktop/django_project/blog/urls.py",
+		"/C/Users/GKTRK/Desktop/django_project/blog/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/models.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/profiles/admin.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/urls.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/contact/view.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/forms.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/views.py",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/auth/login.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/auth/register.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/templates/home_page.html",
+		"/C/Users/GKTRK/Dev/ecommerce/src/ecommerce/settings.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/models.py",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/settings.py",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/urls.py",
+		"/C/Users/GKTRK/Dev/try_django/static_cdn_test/blank/blank.txt",
+		"/C/Users/GKTRK/Dev/try_django/src/staticfiles/blank.txt",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/list-inline.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/views.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/forms.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/home.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/list.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/detail.html",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/views.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/navbar.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/base.html",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/forms.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/delete.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/create.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/form.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/form.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_list.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_create.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/urls.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_delete.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_update.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_detail.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/admin.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/hello_world.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/about.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/title.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/products/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/products/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								644,
+								644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/products/templates/products/featured-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								537,
+								537
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/products/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/base/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/products/templates/products/snippets/card.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "funfinifon.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

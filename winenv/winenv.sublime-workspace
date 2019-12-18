@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"conf"
+			],
+			[
+				"stat",
+				"staticfiles"
+			],
+			[
+				"st",
+				"static_cdn_test"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"get",
+				"get_queryset"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ge",
+				"get_absolute_url"
+			],
+			[
+				"i",
+				"instance"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"B",
+				"BlogPostForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Co",
+				"ContactForm"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"r",
+				"rendered_item"
+			],
+			[
+				"templa",
+				"template_obj"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"temp",
+				"template_obj"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"S",
+				"SECRET_KEY"
+			],
+			[
+				"e",
+				"environ"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"modle",
+				"models"
+			],
+			[
+				"au",
+				"auth_views"
+			],
+			[
+				"user",
+				"user_views"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rena",
+				"Rename File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/GKTRK/Dev/try_django/src/blog/models.py",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/settings.py",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/urls.py",
+		"/C/Users/GKTRK/Dev/try_django/static_cdn_test/blank/blank.txt",
+		"/C/Users/GKTRK/Dev/try_django/src/staticfiles/blank.txt",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/list-inline.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/views.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/forms.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/home.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/list.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/detail.html",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/views.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/navbar.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/base.html",
+		"/C/Users/GKTRK/Dev/try_django/src/try_django/forms.py",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/delete.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/create.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/form.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/templates/blog/form.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_list.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_create.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/urls.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_delete.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_update.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/blog_post_detail.html",
+		"/C/Users/GKTRK/Dev/try_django/src/blog/admin.py",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/hello_world.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/about.html",
+		"/C/Users/GKTRK/Dev/try_django/src/templates/title.txt",
+		"/C/Users/GKTRK/django_project/django_project/settings.py",
+		"/C/Users/GKTRK/django_project/.git/COMMIT_EDITMSG",
+		"/C/Users/GKTRK/django_project/requirements.txt",
+		"/C/Users/GKTRK/django_project/.gitignore",
+		"/C/Users/GKTRK/django_project/blog/static/blog/main.css",
+		"/C/Users/GKTRK/django_project/django_project/__init__.py",
+		"/C/Users/GKTRK/django_project/django_project/__pycache__/settings.cpython-37.pyc",
+		"/C/Users/GKTRK/django_project/django_project/wsgi.py",
+		"/C/Users/GKTRK/django_project/Procfile",
+		"/C/Users/GKTRK/django_project/users/models.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/login.html",
+		"/C/Users/GKTRK/django_project/django_project/urls.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset_complete.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset_done.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/password_reset_confirm.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/post_detail.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/home.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/user_posts.html",
+		"/C/Users/GKTRK/django_project/blog/urls.py",
+		"/C/Users/GKTRK/django_project/blog/views.py",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/base.html",
+		"/C/Users/GKTRK/django_project/posts.json",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/post_form.html",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/post_confirm_delete.html",
+		"/C/Users/GKTRK/django_project/blog/models.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/profile.html",
+		"/C/Users/GKTRK/django_project/users/forms.py",
+		"/C/Users/GKTRK/django_project/users/views.py",
+		"/C/Users/GKTRK/django_project/users/apps.py",
+		"/C/Users/GKTRK/django_project/users/signals.py",
+		"/C/Users/GKTRK/django_project/users/admin.py",
+		"/C/Users/GKTRK/django_project/users/templates/users/logout.html",
+		"/C/Users/GKTRK/django_project/users/templates/users/register.html",
+		"/C/Users/GKTRK/django_project/blog/admin.py",
+		"/C/Users/GKTRK/django_project/blog/Templates/blog/about.html",
+		"/C/Users/GKTRK/django_project/url.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "winenv.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
