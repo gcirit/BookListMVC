@@ -8781,11 +8781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GKTRK\\dev\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+      "projectUniqueName": "C:\\Users\\GKTRK\\Dev\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
       "projectName": "BookListMVC",
-      "projectPath": "C:\\Users\\GKTRK\\dev\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+      "projectPath": "C:\\Users\\GKTRK\\Dev\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
       "packagesPath": "C:\\Users\\GKTRK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GKTRK\\dev\\BookListMVC\\BookListMVC\\obj\\",
+      "outputPath": "C:\\Users\\GKTRK\\Dev\\BookListMVC\\BookListMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GKTRK\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8800,6 +8800,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -8811,6 +8812,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "EntityFramework": {
             "target": "Package",
@@ -8861,7 +8863,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
