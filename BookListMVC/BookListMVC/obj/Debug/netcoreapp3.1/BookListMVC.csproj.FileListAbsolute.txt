@@ -1,6 +1,5 @@
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\GKTRK\dev\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\BookListMVC.exe
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\BookListMVC.deps.json
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\BookListMVC.runtimeconfig.json
@@ -422,3 +421,4 @@ C:\Users\GKTRK\dev\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.M
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
 C:\Users\GKTRK\dev\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Upsert.cshtml.g.cs
+C:\Users\GKTRK\Dev\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookListMVC.styles.css
