@@ -523,8 +523,16 @@
 			"file": "/C/laragon/www/DigiDeha/wp-config.php",
 			"settings":
 			{
-				"buffer_size": 3296,
+				"buffer_size": 3499,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Oracle Cloud/gfchat/ssh-key-2021-03-02.key",
+			"settings":
+			{
+				"buffer_size": 1675,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -757,7 +765,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -766,7 +774,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3296,
+						"buffer_size": 3499,
 						"regions":
 						{
 						},
@@ -783,6 +791,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 1674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Oracle Cloud/gfchat/ssh-key-2021-03-02.key",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1644,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
